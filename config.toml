@@ -1,0 +1,11 @@
+[global]
+uuid = "339380dd-f159-4439-be2e-54c636e06326"
+repo_relative_path = "../../BorgRepo"
+free_space_threshold_gb = 50
+
+[contextes.imac-monia-endeavouros-01]
+prefix = "iMac-Monia-EndeavourOS-01"
+description = "Premier Linux"
+source = "/home/monia"
+exclude_file = "gnome_excludes.txt"
+keep_archives = 5

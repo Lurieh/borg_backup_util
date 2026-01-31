@@ -1,0 +1,9 @@
+# Cache et données temporaires
+.cache/
+.local/share/Trash/
+.var/app/*/cache/
+# Téléchargements (souvent trop lourd/inutile)
+Downloads/
+# Socket et runtime
+.gvfs/
+.dbus/
